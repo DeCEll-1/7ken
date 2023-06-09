@@ -1,0 +1,9 @@
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\poedx\OneDrive\Belgeler\GitHub\7ken\7ken\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6jYj5TxuP3GukiJ3jORuhew+8xiScU5sIF4koV4LKL8D4o6CcBLgxJCXwn7KCYvMUSWZQSY1QRCL5IOO0GFTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\poedx\\OneDrive\\Belgeler\\GitHub\\7ken\\7ken\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poedx\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

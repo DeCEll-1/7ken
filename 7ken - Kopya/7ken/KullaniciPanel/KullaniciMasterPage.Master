@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="KullaniciMasterPage.master.cs"
+    Inherits="_7ken.KullaniciPanel.KullaniciMasterPage" %>
+
+    <!DOCTYPE html>
+
+    <html>
+
+    <head runat="server">
+        <title></title>
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+        <link href="../Assets/fontawesome/css/all.min.css" rel="stylesheet" />
+        <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="../Assets/Css/navbar-top-fixed.css">
+    </head>
+
+    <body>
+        <form id="form1" runat="server">
+            <div>
+                <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+                    <a class="navbar-brand p-0 m-0" style="margin-top:-10px !important;" href="/KullaniciPanel/Baslik/User_Baslik_List.aspx">
+                        <img style="width:70px" class="p-0 m-0" src="/Assets/Images/Logo-transparent-big288x108-white.png" />
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+                        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="/KullaniciPanel/Baslik/User_Baslik_List.aspx">Ana Sayfa <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Profil</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <main role="main" class="container">
+                    <div class="jumbotron">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </main>
+            </div>
+        </form>
+
+        <script src="../Scripts/bootstrap.bundle.min.js"></script>
+        <script src="../Scripts/bootstrap.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.6.4.js"
+            integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+        <%--<script src="../Scripts/jquery-3.6.4.js"></script>--%>
+            <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+            <asp:ContentPlaceHolder ID="MyScripts" runat="server">
+            </asp:ContentPlaceHolder>
+    </body>
+
+    </html>
